@@ -1,4 +1,14 @@
-# elm-package generated files
-elm-stuff
-# elm-repl generated files
-repl-temp-*
+.idea/
+*.iml
+*.iws
+*.eml
+.DS_Store
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
+.cache/
+/public
+/dist
+*/**/dist
